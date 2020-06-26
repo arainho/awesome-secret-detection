@@ -10,8 +10,9 @@ Repository | Description
 [Yelp's Detect Secrets](https://github.com/Yelp/detect-secrets) | ...
 [Duo Security's Secret Bridge](https://github.com/duo-labs/secret-bridge) | ...
 [gitleaks](https://github.com/zricethezav/gitleaks) | Scan git repos for secrets using regex and entropy
-[truffleHog](https://github.com/dxa4481/truffleHog) | Searches through git repositories for high entropy strings and secrets, digging deep into commit history 
-[]() | 
+[truffleHog](https://github.com/dxa4481/truffleHog) | Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+[gitrob](https://github.com/michenriksen/gitrob) | Reconnaissance tool for GitHub organizations 
+[shhgit](https://github.com/eth0izzle/shhgit/) | Shhgit finds secrets and sensitive files across GitHub code and Gists
 
 ## Vendors websites
 
@@ -24,6 +25,7 @@ Repository | Description
 [Da Tree](https://www.datree.io/) | ...
 
 ## Articles
-Articles | Description
----- | ----
-[Category Direction - Secret Detection](https://about.gitlab.com/direction/secure/static-analysis/secret-detection/) | ... 
+Author | Articles | Description
+---- | ---- | ----
+GitLab | [Category Direction - Secret Detection](https://about.gitlab.com/direction/secure/static-analysis/secret-detection/) | Secret Detection for software development lifecycle (SDLC). 
+DuoLabs | [Secret Detection Tools](https://github.com/duo-labs/secret-bridge/blob/master/TOOLS.md) | A curated list of the secret detection tools
